@@ -3,7 +3,7 @@
 
 
 ## Description
-Our winning submission for the Student Life Track submission for a 5 hour datathon in which we did an analysis of Stony Brook University class ratings on Rate My Professor.
+Our winning submission for the Student Life Track for a 5 hour datathon in which we did an analysis of Stony Brook University class ratings on Rate My Professor.
 
 
 ## Goal
