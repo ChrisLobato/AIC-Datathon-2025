@@ -1,0 +1,1240 @@
+{
+  "client:root": {
+    "__id": "client:root",
+    "__typename": "__Root",
+    "node(id:\"VGVhY2hlci0yODI2Mjcy\")": {
+      "__ref": "VGVhY2hlci0yODI2Mjcy"
+    }
+  },
+  "VGVhY2hlci0yODI2Mjcy": {
+    "__id": "VGVhY2hlci0yODI2Mjcy",
+    "__typename": "Teacher",
+    "id": "VGVhY2hlci0yODI2Mjcy",
+    "legacyId": 2826272,
+    "firstName": "Jalaa",
+    "lastName": "Hoblos",
+    "department": "Computer Science",
+    "school": {
+      "__ref": "U2Nob29sLTk3MQ=="
+    },
+    "lockStatus": "none",
+    "isSaved": false,
+    "numRatings": 46,
+    "ratingsDistribution": {
+      "__ref": "client:VGVhY2hlci0yODI2Mjcy:ratingsDistribution"
+    },
+    "avgRating": 1.8,
+    "departmentId": "11",
+    "teacherRatingTags": {
+      "__refs": [
+        "VGVhY2hlclJhdGluZ1RhZ3MtMQ==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMg==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMw==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtNQ==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtOA==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtOQ==",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTI=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTM=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTQ=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTU=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTY=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTg=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMTk=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMjA=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMjE=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMjI=",
+        "VGVhY2hlclJhdGluZ1RhZ3MtMjM="
+      ]
+    },
+    "isProfCurrentUser": false,
+    "avgDifficulty": 4.2,
+    "wouldTakeAgainPercent": 21.7391,
+    "relatedTeachers": {
+      "__refs": [
+        "UmVsYXRlZFRlYWNoZXItMjEwODI2MQ==",
+        "UmVsYXRlZFRlYWNoZXItMTYxNDg4MQ==",
+        "UmVsYXRlZFRlYWNoZXItMTc1MTU2NQ=="
+      ]
+    },
+    "courseCodes": {
+      "__refs": [
+        "client:VGVhY2hlci0yODI2Mjcy:courseCodes:0",
+        "client:VGVhY2hlci0yODI2Mjcy:courseCodes:1",
+        "client:VGVhY2hlci0yODI2Mjcy:courseCodes:2",
+        "client:VGVhY2hlci0yODI2Mjcy:courseCodes:3"
+      ]
+    },
+    "ratings(first:20)": {
+      "__ref": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20)"
+    },
+    "__RatingsList_ratings_connection": {
+      "__ref": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection"
+    }
+  },
+  "U2Nob29sLTk3MQ==": {
+    "__id": "U2Nob29sLTk3MQ==",
+    "__typename": "School",
+    "legacyId": 971,
+    "name": "Stony Brook University (SUNY)",
+    "city": "Stony Brook",
+    "state": "NY",
+    "country": "0-US-United States",
+    "id": "U2Nob29sLTk3MQ==",
+    "avgRating": 0,
+    "numRatings": 540
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratingsDistribution": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratingsDistribution",
+    "__typename": "ratingsDistribution",
+    "total": 46,
+    "r1": 35,
+    "r2": 1,
+    "r3": 2,
+    "r4": 2,
+    "r5": 6
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMQ==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMQ==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 1,
+    "tagCount": 32,
+    "tagName": "Tough grader",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMQ=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMg==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMg==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 2,
+    "tagCount": 3,
+    "tagName": "Get ready to read",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMg=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMw==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMw==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 3,
+    "tagCount": 1,
+    "tagName": "Participation matters",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMw=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtNQ==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtNQ==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 5,
+    "tagCount": 6,
+    "tagName": "EXTRA CREDIT",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtNQ=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtOA==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtOA==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 8,
+    "tagCount": 2,
+    "tagName": "Amazing lectures ",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtOA=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtOQ==": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtOQ==",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 9,
+    "tagCount": 1,
+    "tagName": "Clear grading criteria",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtOQ=="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTI=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTI=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 12,
+    "tagCount": 2,
+    "tagName": "Gives good feedback",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTI="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTM=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTM=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 13,
+    "tagCount": 1,
+    "tagName": "Inspirational",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTM="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTQ=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTQ=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 14,
+    "tagCount": 8,
+    "tagName": "Lots of homework",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTQ="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTU=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTU=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 15,
+    "tagCount": 2,
+    "tagName": "Hilarious",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTU="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTY=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTY=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 16,
+    "tagCount": 4,
+    "tagName": "Beware of pop quizzes",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTY="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTg=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTg=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 18,
+    "tagCount": 3,
+    "tagName": "Caring",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTg="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMTk=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMTk=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 19,
+    "tagCount": 1,
+    "tagName": "Respected",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMTk="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMjA=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMjA=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 20,
+    "tagCount": 5,
+    "tagName": "Lecture heavy",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMjA="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMjE=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMjE=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 21,
+    "tagCount": 17,
+    "tagName": "Test heavy",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMjE="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMjI=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMjI=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 22,
+    "tagCount": 4,
+    "tagName": "Graded by few things",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMjI="
+  },
+  "VGVhY2hlclJhdGluZ1RhZ3MtMjM=": {
+    "__id": "VGVhY2hlclJhdGluZ1RhZ3MtMjM=",
+    "__typename": "TeacherRatingTags",
+    "legacyId": 23,
+    "tagCount": 2,
+    "tagName": "Accessible outside class",
+    "id": "VGVhY2hlclJhdGluZ1RhZ3MtMjM="
+  },
+  "UmVsYXRlZFRlYWNoZXItMjEwODI2MQ==": {
+    "__id": "UmVsYXRlZFRlYWNoZXItMjEwODI2MQ==",
+    "__typename": "RelatedTeacher",
+    "legacyId": 2108261,
+    "firstName": "Michalis",
+    "lastName": "Polychronakis",
+    "avgRating": 4.9,
+    "id": "UmVsYXRlZFRlYWNoZXItMjEwODI2MQ=="
+  },
+  "UmVsYXRlZFRlYWNoZXItMTYxNDg4MQ==": {
+    "__id": "UmVsYXRlZFRlYWNoZXItMTYxNDg4MQ==",
+    "__typename": "RelatedTeacher",
+    "legacyId": 1614881,
+    "firstName": "Paul",
+    "lastName": "Fodor",
+    "avgRating": 4.8,
+    "id": "UmVsYXRlZFRlYWNoZXItMTYxNDg4MQ=="
+  },
+  "UmVsYXRlZFRlYWNoZXItMTc1MTU2NQ==": {
+    "__id": "UmVsYXRlZFRlYWNoZXItMTc1MTU2NQ==",
+    "__typename": "RelatedTeacher",
+    "legacyId": 1751565,
+    "firstName": "Peter",
+    "lastName": "Henderson",
+    "avgRating": 4.7,
+    "id": "UmVsYXRlZFRlYWNoZXItMTc1MTU2NQ=="
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:courseCodes:0": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:courseCodes:0",
+    "__typename": "Course",
+    "courseName": "CSE101",
+    "courseCount": 9
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:courseCodes:1": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:courseCodes:1",
+    "__typename": "Course",
+    "courseName": "CSE114",
+    "courseCount": 22
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:courseCodes:2": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:courseCodes:2",
+    "__typename": "Course",
+    "courseName": "cse310",
+    "courseCount": 12
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:courseCodes:3": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:courseCodes:3",
+    "__typename": "Course",
+    "courseName": "ISE316",
+    "courseCount": 3
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20)": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20)",
+    "__typename": "RatingConnection",
+    "edges": {
+      "__refs": [
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:0",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:1",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:2",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:3",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:4",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:5",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:6",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:7",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:8",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:9",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:10",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:11",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:12",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:13",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:14",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:15",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:16",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:17",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:18",
+        "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:19"
+      ]
+    },
+    "pageInfo": {
+      "__ref": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):pageInfo"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:0": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:0",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwODUyMjIy"
+    }
+  },
+  "UmF0aW5nLTQwODUyMjIy": {
+    "__id": "UmF0aW5nLTQwODUyMjIy",
+    "__typename": "Rating",
+    "comment": "No curve, run...",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40852222,
+    "date": "2025-04-01 18:54:45 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "B-",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader",
+    "id": "UmF0aW5nLTQwODUyMjIy",
+    "adminReviewedAt": "2025-04-01 18:54:52 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:1": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:1",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwMDgxMDIz"
+    }
+  },
+  "UmF0aW5nLTQwMDgxMDIz": {
+    "__id": "UmF0aW5nLTQwMDgxMDIz",
+    "__typename": "Rating",
+    "comment": "The good thing was she gave extra credits on every exams. Love it.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40081023,
+    "date": "2025-03-08 23:10:48 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 5,
+    "clarityRating": 5,
+    "isForOnlineClass": false,
+    "difficultyRating": 2,
+    "attendanceMandatory": "mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "A",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "EXTRA CREDIT--Graded by few things",
+    "id": "UmF0aW5nLTQwMDgxMDIz",
+    "adminReviewedAt": "2025-03-08 23:11:09 +0000 UTC",
+    "thumbsUpTotal": 1,
+    "thumbsDownTotal": 1,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:2": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:2",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjI=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNjI3ODMw"
+    }
+  },
+  "UmF0aW5nLTQwNjI3ODMw": {
+    "__id": "UmF0aW5nLTQwNjI3ODMw",
+    "__typename": "Rating",
+    "comment": "If you attend the class, you will pass relatively easy. ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40627830,
+    "date": "2025-02-01 01:15:10 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 5,
+    "clarityRating": 5,
+    "isForOnlineClass": false,
+    "difficultyRating": 3,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "B",
+    "textbookUse": 3,
+    "isForCredit": true,
+    "ratingTags": "Hilarious--Caring",
+    "id": "UmF0aW5nLTQwNjI3ODMw",
+    "adminReviewedAt": "2025-02-01 01:15:29 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:3": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:3",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjM=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNjA0NTc4"
+    }
+  },
+  "UmF0aW5nLTQwNjA0NTc4": {
+    "__id": "UmF0aW5nLTQwNjA0NTc4",
+    "__typename": "Rating",
+    "comment": "Why is everyone whining so much? Not an easy prof, but def a fair one. AS IN: If you study, you will pass, if you don't study you won't pass. It's not CSE300. Deal with it. \n\nI came away from this course actually learning something. ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40604578,
+    "date": "2025-01-26 19:42:08 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 4,
+    "clarityRating": 4,
+    "isForOnlineClass": false,
+    "difficultyRating": 4,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "B+",
+    "textbookUse": 3,
+    "isForCredit": true,
+    "ratingTags": "EXTRA CREDIT--Beware of pop quizzes",
+    "id": "UmF0aW5nLTQwNjA0NTc4",
+    "adminReviewedAt": "2025-01-26 19:42:31 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:4": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:4",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDUyMjU0"
+    }
+  },
+  "UmF0aW5nLTQwNDUyMjU0": {
+    "__id": "UmF0aW5nLTQwNDUyMjU0",
+    "__typename": "Rating",
+    "comment": "The professor herself sometimes feels confused about questions she came up with. She has more than 10 quizzes and is very tough on grading homework. The content of cse310 is too much and you need approximately more than 15 hours per week to fully understand them. Terrible experience having classes with her.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40452254,
+    "date": "2024-12-28 21:25:33 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "B+",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Lots of homework--Lecture heavy",
+    "id": "UmF0aW5nLTQwNDUyMjU0",
+    "adminReviewedAt": "2024-12-28 21:25:53 +0000 UTC",
+    "thumbsUpTotal": 1,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:5": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:5",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjU=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDI3MjQ2"
+    }
+  },
+  "UmF0aW5nLTQwNDI3MjQ2": {
+    "__id": "UmF0aW5nLTQwNDI3MjQ2",
+    "__typename": "Rating",
+    "comment": "it is tough to get high score. almost every week we have a quiz. there is no sample before exam. she will give you a lot of resources to review. a lot of stuff. very tough",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40427246,
+    "date": "2024-12-24 01:21:06 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "B",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader",
+    "id": "UmF0aW5nLTQwNDI3MjQ2",
+    "adminReviewedAt": "2024-12-24 01:21:22 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:6": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:6",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjY=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDE1MjY2"
+    }
+  },
+  "UmF0aW5nLTQwNDE1MjY2": {
+    "__id": "UmF0aW5nLTQwNDE1MjY2",
+    "__typename": "Rating",
+    "comment": "the worst professor in my life ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40415266,
+    "date": "2024-12-22 13:28:38 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "D-",
+    "textbookUse": -1,
+    "isForCredit": false,
+    "ratingTags": "Amazing lectures --Lots of homework--Test heavy",
+    "id": "UmF0aW5nLTQwNDE1MjY2",
+    "adminReviewedAt": "2024-12-22 13:28:58 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:7": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:7",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjc=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwMzkyNzU0"
+    }
+  },
+  "UmF0aW5nLTQwMzkyNzU0": {
+    "__id": "UmF0aW5nLTQwMzkyNzU0",
+    "__typename": "Rating",
+    "comment": "Professor Hoblos is an excellent teacher who truly cares about her students. Her explanations in class are clear, and she's always available to help during office hours. She made complex topics much easier to understand by going through examples in class and giving us practice questions to study. Make sure you put the effort in.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 40392754,
+    "date": "2024-12-20 04:33:13 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 5,
+    "clarityRating": 5,
+    "isForOnlineClass": false,
+    "difficultyRating": 3,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "A-",
+    "textbookUse": 3,
+    "isForCredit": true,
+    "ratingTags": "Gives good feedback--Caring--Accessible outside class",
+    "id": "UmF0aW5nLTQwMzkyNzU0",
+    "adminReviewedAt": "2024-12-20 04:33:25 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:8": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:8",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjg=",
+    "node": {
+      "__ref": "UmF0aW5nLTM5OTg4NjI2"
+    }
+  },
+  "UmF0aW5nLTM5OTg4NjI2": {
+    "__id": "UmF0aW5nLTM5OTg4NjI2",
+    "__typename": "Rating",
+    "comment": "Absolutely do not take this class or any of her other classes. This professor is genuinely the least understanding and one of the most rude people I've ever met. Yells at people for getting up for the bathroom during an 80 minute lecture. Gives the TA's incorrect grading sheet almost always resulting in lower grades. ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39988626,
+    "date": "2024-11-20 04:33:59 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "A-",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Participation matters--Test heavy",
+    "id": "UmF0aW5nLTM5OTg4NjI2",
+    "adminReviewedAt": "2024-11-20 04:34:17 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:9": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:9",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjk=",
+    "node": {
+      "__ref": "UmF0aW5nLTM5Nzg5MzEx"
+    }
+  },
+  "UmF0aW5nLTM5Nzg5MzEx": {
+    "__id": "UmF0aW5nLTM5Nzg5MzEx",
+    "__typename": "Rating",
+    "comment": "Absolute worst introductory professor I've ever had the misfortune of encountering. She has anger issues and ONLY reads off slides. I get its a lecture, but the class can be taught so much better and the fact that she's not a good person in general doesn't help. Avoid this joke. Take my goat, Kevin McDonnell. He's chill and ACTUALLY TEACHES. ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39789311,
+    "date": "2024-10-05 23:42:57 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 4,
+    "attendanceMandatory": "mandatory",
+    "wouldTakeAgain": null,
+    "grade": "Rather not say",
+    "textbookUse": null,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Test heavy--Graded by few things",
+    "id": "UmF0aW5nLTM5Nzg5MzEx",
+    "adminReviewedAt": "2024-10-05 23:43:17 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:10": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:10",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEw",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzY3MjU2"
+    }
+  },
+  "UmF0aW5nLTM5NzY3MjU2": {
+    "__id": "UmF0aW5nLTM5NzY3MjU2",
+    "__typename": "Rating",
+    "comment": "Y'all already read the reviews. Don't take this class (not with her at least). I'm currently a sophomore and taking this class with her first sem freshman year has tanked my gpa and has been so hard to bring back up. I came back to warn y'all. AVOID AT ALL COSTS. Good luck loves :,O",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39767256,
+    "date": "2024-09-26 13:05:38 +0000 UTC",
+    "class": "CSE114",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Test heavy--Graded by few things",
+    "id": "UmF0aW5nLTM5NzY3MjU2",
+    "adminReviewedAt": "2024-09-26 13:05:59 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:11": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:11",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEx",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzY0MjY2"
+    }
+  },
+  "UmF0aW5nLTM5NzY0MjY2": {
+    "__id": "UmF0aW5nLTM5NzY0MjY2",
+    "__typename": "Rating",
+    "comment": "She genuinely does not want u to succeed. I took her for 114 & 310. She's not organized, heavy accent, rude, & doesn't know the subject. She cannot teach a 101 class. She gives incorrect grading sheets to TA's so it's impossible to get a good grade unless u correct her thru email. Any question u have, expect a 1 or 2 word vague incorrect answer.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39764266,
+    "date": "2024-09-25 11:23:08 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": true,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "B",
+    "textbookUse": 3,
+    "isForCredit": true,
+    "ratingTags": "Tough grader",
+    "id": "UmF0aW5nLTM5NzY0MjY2",
+    "adminReviewedAt": "2024-09-25 11:23:28 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:12": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:12",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEy",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzA2MjEx"
+    }
+  },
+  "UmF0aW5nLTM5NzA2MjEx": {
+    "__id": "UmF0aW5nLTM5NzA2MjEx",
+    "__typename": "Rating",
+    "comment": "Half of student fail her class and it's required for major...the grading is so harsh, especially for the exam which many did worse than they thought and it's 30% of the grade. No curve whatsoever and harsh grading for homework. Ruined my gpa and got my first C. If you can wait for diff prof, please do for your own good.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39706211,
+    "date": "2024-08-26 14:10:18 +0000 UTC",
+    "class": "cse310",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": true,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "C+",
+    "textbookUse": -1,
+    "isForCredit": false,
+    "ratingTags": "Tough grader--Test heavy--Graded by few things",
+    "id": "UmF0aW5nLTM5NzA2MjEx",
+    "adminReviewedAt": "2024-08-26 14:10:42 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:13": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:13",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEz",
+    "node": {
+      "__ref": "UmF0aW5nLTM5Njk1Nzc0"
+    }
+  },
+  "UmF0aW5nLTM5Njk1Nzc0": {
+    "__id": "UmF0aW5nLTM5Njk1Nzc0",
+    "__typename": "Rating",
+    "comment": "She wants you to fail, like she definitely decided to become a professor to drift kids away from her field.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39695774,
+    "date": "2024-08-20 23:30:11 +0000 UTC",
+    "class": "CSE114",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "mandatory",
+    "wouldTakeAgain": null,
+    "grade": "Drop/Withdrawal",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "",
+    "id": "UmF0aW5nLTM5Njk1Nzc0",
+    "adminReviewedAt": "2024-08-20 23:30:26 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:14": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:14",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE0",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDkxNTU2"
+    }
+  },
+  "UmF0aW5nLTM5NDkxNTU2": {
+    "__id": "UmF0aW5nLTM5NDkxNTU2",
+    "__typename": "Rating",
+    "comment": "Hoblos brings a middle-school vibe to a college environment. She always assumes the worst in students and constantly talks badly to them, AND doesn't teach well at all. The class is easy, since she posts all the needed modules (made by McDonnell, not her) and you get extra credit opportunities, but her demeanor singlehandedly makes it a bad class.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39491556,
+    "date": "2024-05-19 03:55:30 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 2,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "A",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "EXTRA CREDIT",
+    "id": "UmF0aW5nLTM5NDkxNTU2",
+    "adminReviewedAt": "2024-05-19 03:55:39 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:15": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:15",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE1",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDc5NjAx"
+    }
+  },
+  "UmF0aW5nLTM5NDc5NjAx": {
+    "__id": "UmF0aW5nLTM5NDc5NjAx",
+    "__typename": "Rating",
+    "comment": " A lot of people tend to skip the lectures and resort to the online recordings. I did this in the beginning of the semester and I dealt with the repercussions. But when you attend in person she is a good instructor, she asks if anyone has any questions. She is a very fair professor, she offered my class extra credit to help boost our grades.  ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39479601,
+    "date": "2024-05-16 20:34:19 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 5,
+    "clarityRating": 5,
+    "isForOnlineClass": false,
+    "difficultyRating": 2,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": 1,
+    "grade": "Rather not say",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "EXTRA CREDIT--Clear grading criteria--Respected",
+    "id": "UmF0aW5nLTM5NDc5NjAx",
+    "adminReviewedAt": "2024-05-16 20:34:39 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 1,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:16": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:16",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE2",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDYwNjg0"
+    }
+  },
+  "UmF0aW5nLTM5NDYwNjg0": {
+    "__id": "UmF0aW5nLTM5NDYwNjg0",
+    "__typename": "Rating",
+    "comment": "This class was boring. Instead of actually lecturing she just goes over modules made by someone else. If you want to try and get into Computer Science and see if it's for you, this isn't the class. The work wasn't exactly hard but was extremely boring. They give a lot of extra credit options if you're doing bad though. Hated this class still.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39460684,
+    "date": "2024-05-14 17:40:58 +0000 UTC",
+    "class": "CSE101",
+    "helpfulRating": 2,
+    "clarityRating": 2,
+    "isForOnlineClass": false,
+    "difficultyRating": 3,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "Not sure yet",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "EXTRA CREDIT",
+    "id": "UmF0aW5nLTM5NDYwNjg0",
+    "adminReviewedAt": "2024-05-14 17:41:18 +0000 UTC",
+    "thumbsUpTotal": 1,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:17": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:17",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE3",
+    "node": {
+      "__ref": "UmF0aW5nLTM5MjgzMTM0"
+    }
+  },
+  "UmF0aW5nLTM5MjgzMTM0": {
+    "__id": "UmF0aW5nLTM5MjgzMTM0",
+    "__typename": "Rating",
+    "comment": "Even if you start with the knowledge of all these subjects, you will see the feeling of lying in the guillotine. Be prepared for D or lower if you think you are average.",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 39283134,
+    "date": "2024-05-02 21:20:21 +0000 UTC",
+    "class": "CSE114",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 4,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "A",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Test heavy",
+    "id": "UmF0aW5nLTM5MjgzMTM0",
+    "adminReviewedAt": "2024-05-02 21:20:21 +0000 UTC",
+    "thumbsUpTotal": 0,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:18": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:18",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE4",
+    "node": {
+      "__ref": "UmF0aW5nLTM4OTMzMzM3"
+    }
+  },
+  "UmF0aW5nLTM4OTMzMzM3": {
+    "__id": "UmF0aW5nLTM4OTMzMzM3",
+    "__typename": "Rating",
+    "comment": "Worse professor I've ever had at Stonybrook. ",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 38933337,
+    "date": "2024-01-29 15:11:27 +0000 UTC",
+    "class": "CSE114",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 5,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "F",
+    "textbookUse": -1,
+    "isForCredit": true,
+    "ratingTags": "Tough grader",
+    "id": "UmF0aW5nLTM4OTMzMzM3",
+    "adminReviewedAt": "2024-01-29 15:11:47 +0000 UTC",
+    "thumbsUpTotal": 1,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:19": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):edges:19",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE5",
+    "node": {
+      "__ref": "UmF0aW5nLTM4OTE4MDI1"
+    }
+  },
+  "UmF0aW5nLTM4OTE4MDI1": {
+    "__id": "UmF0aW5nLTM4OTE4MDI1",
+    "__typename": "Rating",
+    "comment": "Absolute horrid professor who uses slides from the textbook for lectures. She doesn't return any midterms which usually contain content she hasn't taught. Would avoid!",
+    "flagStatus": "UNFLAGGED",
+    "createdByUser": false,
+    "teacherNote": null,
+    "legacyId": 38918025,
+    "date": "2024-01-24 01:45:29 +0000 UTC",
+    "class": "CSE114",
+    "helpfulRating": 1,
+    "clarityRating": 1,
+    "isForOnlineClass": false,
+    "difficultyRating": 4,
+    "attendanceMandatory": "non mandatory",
+    "wouldTakeAgain": null,
+    "grade": "D",
+    "textbookUse": 3,
+    "isForCredit": true,
+    "ratingTags": "Tough grader--Test heavy",
+    "id": "UmF0aW5nLTM4OTE4MDI1",
+    "adminReviewedAt": "2024-01-24 01:45:49 +0000 UTC",
+    "thumbsUpTotal": 1,
+    "thumbsDownTotal": 0,
+    "thumbs": {
+      "__refs": []
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):pageInfo": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:ratings(first:20):pageInfo",
+    "__typename": "PageInfo",
+    "hasNextPage": true,
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjE5"
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection",
+    "__typename": "RatingConnection",
+    "__connection_next_edge_index": 20,
+    "edges": {
+      "__refs": [
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:0",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:1",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:2",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:3",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:4",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:5",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:6",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:7",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:8",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:9",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:10",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:11",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:12",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:13",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:14",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:15",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:16",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:17",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:18",
+        "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:19"
+      ]
+    },
+    "pageInfo": {
+      "__ref": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:pageInfo"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:0": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:0",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjA=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwODUyMjIy"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:1": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:1",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwMDgxMDIz"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:2": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:2",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjI=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNjI3ODMw"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:3": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:3",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjM=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNjA0NTc4"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:4": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:4",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDUyMjU0"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:5": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:5",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjU=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDI3MjQ2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:6": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:6",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjY=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwNDE1MjY2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:7": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:7",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjc=",
+    "node": {
+      "__ref": "UmF0aW5nLTQwMzkyNzU0"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:8": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:8",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjg=",
+    "node": {
+      "__ref": "UmF0aW5nLTM5OTg4NjI2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:9": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:9",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjk=",
+    "node": {
+      "__ref": "UmF0aW5nLTM5Nzg5MzEx"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:10": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:10",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEw",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzY3MjU2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:11": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:11",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEx",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzY0MjY2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:12": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:12",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEy",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NzA2MjEx"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:13": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:13",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjEz",
+    "node": {
+      "__ref": "UmF0aW5nLTM5Njk1Nzc0"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:14": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:14",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE0",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDkxNTU2"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:15": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:15",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE1",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDc5NjAx"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:16": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:16",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE2",
+    "node": {
+      "__ref": "UmF0aW5nLTM5NDYwNjg0"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:17": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:17",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE3",
+    "node": {
+      "__ref": "UmF0aW5nLTM5MjgzMTM0"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:18": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:18",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE4",
+    "node": {
+      "__ref": "UmF0aW5nLTM4OTMzMzM3"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:19": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:edges:19",
+    "__typename": "RatingEdge",
+    "cursor": "YXJyYXljb25uZWN0aW9uOjE5",
+    "node": {
+      "__ref": "UmF0aW5nLTM4OTE4MDI1"
+    }
+  },
+  "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:pageInfo": {
+    "__id": "client:VGVhY2hlci0yODI2Mjcy:__RatingsList_ratings_connection:pageInfo",
+    "__typename": "PageInfo",
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjE5",
+    "startCursor": null
+  }
+}

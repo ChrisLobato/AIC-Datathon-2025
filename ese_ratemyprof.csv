@@ -1,0 +1,1034 @@
+Professor,class,difficulty rating,quality,would take again,grade,attendance mandatory
+David Westerfeld,ESE123,3,5,1.0,B+,non mandatory
+David Westerfeld,ESE123,4,5,1.0,A,mandatory
+David Westerfeld,ESE123,3,3,1.0,Not sure yet,non mandatory
+David Westerfeld,ESE123,3,5,1.0,B+,
+David Westerfeld,ESE123,3,4,1.0,B+,non mandatory
+David Westerfeld,ESE123,3,5,1.0,B+,non mandatory
+David Westerfeld,ESE121,3,3,,Audit/No Grade,non mandatory
+David Westerfeld,ESE123,4,2,,B,non mandatory
+David Westerfeld,ESE124,2,2,,Drop/Withdrawal,mandatory
+David Westerfeld,ESE272,3,1,,A,mandatory
+David Westerfeld,ESE272,3,2,,A,mandatory
+David Westerfeld,ESE123,3,4,1.0,A-,non mandatory
+David Westerfeld,ESE123,2,5,1.0,B+,non mandatory
+David Westerfeld,ESE123,1,5,1.0,A,non mandatory
+David Westerfeld,ESE123,2,5,1.0,,non mandatory
+David Westerfeld,ESE123,1,3,0.0,A,non mandatory
+David Westerfeld,ESE123,3,2,0.0,A,non mandatory
+David Westerfeld,ESE123,4,5,1.0,B-,non mandatory
+David Westerfeld,ESE123,4,5,1.0,B-,mandatory
+David Westerfeld,ESE123,3,5,1.0,A-,non mandatory
+Jorge Mendez-Mendez,ESE577,4,1,,A-,mandatory
+Jorge Mendez-Mendez,ESE577,2,2,,A,mandatory
+Jorge Mendez-Mendez,ESE577,3,2,,A-,mandatory
+Jorge Mendez-Mendez,ESE577,3,5,1.0,A,non mandatory
+Jorge Mendez-Mendez,ESE577,2,5,1.0,A,mandatory
+Anurag Purwar,MEC101,3,5,1.0,A,non mandatory
+Anurag Purwar,MEC101,5,1,,A,non mandatory
+Anurag Purwar,MEC101,3,4,1.0,,non mandatory
+Anurag Purwar,MEC101,3,5,1.0,Not sure yet,non mandatory
+Anurag Purwar,MEC101,4,4,1.0,A-,non mandatory
+Anurag Purwar,MEC101,4,3,,B+,non mandatory
+Anurag Purwar,MEC262,5,2,,A-,non mandatory
+Anurag Purwar,MEC101,5,4,,,non mandatory
+Anurag Purwar,MEC101,5,1,,B+,non mandatory
+Anurag Purwar,MEC101,5,1,,B,non mandatory
+Anurag Purwar,MEC101,3,4,1.0,A+,mandatory
+Anurag Purwar,MEC101,5,1,,C+,mandatory
+Anurag Purwar,MEC101,4,3,0.0,A-,mandatory
+Anurag Purwar,MEC101,4,5,1.0,A-,non mandatory
+Anurag Purwar,MEC101,5,1,0.0,,
+Anurag Purwar,MEC101,4,1,0.0,,non mandatory
+Anurag Purwar,MEC101,4,2,0.0,Rather not say,mandatory
+Anurag Purwar,MEC101,4,2,0.0,Not sure yet,mandatory
+Anurag Purwar,MEC101,4,3,1.0,,
+Anurag Purwar,MEC101,5,1,0.0,,non mandatory
+James Quinn,ESG312,5,3,1.0,B,mandatory
+James Quinn,ESG312,4,2,,Not sure yet,mandatory
+James Quinn,ESG312,5,1,0.0,,mandatory
+James Quinn,ESG312,4,5,,,
+James Quinn,ESG198,2,1,,,
+James Quinn,ESG312,3,5,,,
+James Quinn,ESG312,3,5,,,
+James Quinn,ESG198,3,5,,,
+James Quinn,ESG312,4,5,,,
+James Quinn,ESG441,1,5,,,
+James Quinn,ESG312,3,5,,,
+James Quinn,ESG312,5,1,,,
+James Quinn,ESG198,2,5,,,
+James Quinn,ESG312,1,1,,,
+Maya Koga,ESG111,4,2,,B-,mandatory
+Maya Koga,CME201,1,2,,A,non mandatory
+Maya Koga,ESG111,4,3,1.0,A,mandatory
+Maya Koga,ESG111,4,2,,,mandatory
+Maya Koga,ESG198,3,1,,B,mandatory
+Maya Koga,ESG198,5,1,,Not sure yet,mandatory
+Maya Koga,ESG111,2,5,1.0,A,mandatory
+Maya Koga,ESG111,3,2,,Not sure yet,mandatory
+Maya Koga,ESG111,3,4,1.0,A-,mandatory
+Maya Koga,ESG111,4,4,1.0,,mandatory
+Maya Koga,ESG111,4,4,0.0,B,non mandatory
+Maya Koga,ESG111,3,4,1.0,A-,non mandatory
+Maya Koga,ESM369,2,4,1.0,A,mandatory
+Dmitri Donetski,ESE118,4,5,1.0,C,non mandatory
+Dmitri Donetski,ESE118,4,4,1.0,B+,non mandatory
+Dmitri Donetski,EEO218,4,4,1.0,A,non mandatory
+Dmitri Donetski,EEO218,5,1,,B-,non mandatory
+Dmitri Donetski,ESE118,4,5,1.0,A,non mandatory
+Dmitri Donetski,EEO218,5,1,0.0,,non mandatory
+Dmitri Donetski,ESE218,1,1,0.0,Not sure yet,non mandatory
+Dmitri Donetski,ESE218,5,1,0.0,,mandatory
+Dmitri Donetski,ESE218,5,1,0.0,B+,non mandatory
+Dmitri Donetski,ESE218,4,2,0.0,A,non mandatory
+Dmitri Donetski,ESE218,4,4,1.0,,mandatory
+Dmitri Donetski,ESE218,5,1,0.0,Not sure yet,non mandatory
+Dmitri Donetski,ESE218,5,1,0.0,,non mandatory
+Dmitri Donetski,ESE218,4,4,1.0,A,
+Dmitri Donetski,ESE218,4,4,,,non mandatory
+Dmitri Donetski,ESE218,4,5,,A,non mandatory
+Dmitri Donetski,ESE218,4,4,,Not sure yet,non mandatory
+Dmitri Donetski,ESE218,4,3,,Incomplete,non mandatory
+Dmitri Donetski,ESE218,3,5,,A,non mandatory
+Dmitri Donetski,ESE218,3,5,,,
+Juldeh Sessay,MEC363,4,4,,B+,mandatory
+Juldeh Sessay,MEC363,4,5,1.0,B,non mandatory
+Juldeh Sessay,MEC104,1,2,1.0,A,non mandatory
+Juldeh Sessay,MEC280,1,1,0.0,,non mandatory
+Juldeh Sessay,MEC280,1,5,1.0,A,mandatory
+Juldeh Sessay,MEC280,2,2,0.0,A,
+Juldeh Sessay,MEC363,4,2,0.0,B+,mandatory
+Juldeh Sessay,MEC105,2,2,0.0,A,mandatory
+Juldeh Sessay,MEC105,2,1,,A,non mandatory
+Juldeh Sessay,MEC104,5,1,,,
+Juldeh Sessay,MEC104,5,1,,,
+Juldeh Sessay,MEC280,1,1,,A,mandatory
+Juldeh Sessay,MEC280,1,3,,,
+Juldeh Sessay,MEC280,1,5,,,
+Juldeh Sessay,MEC280,1,2,,,
+Juldeh Sessay,MEC104,1,5,,,
+Juldeh Sessay,MEC105,1,3,,,
+Juldeh Sessay,MEC104,1,2,,,
+Juldeh Sessay,MEC280,1,2,,,
+Juldeh Sessay,MEC280,1,3,,,
+Yizhi Meng,CME318,2,5,1.0,A,mandatory
+Yizhi Meng,CME318,2,5,1.0,A,non mandatory
+Yizhi Meng,CME318,3,5,1.0,A,non mandatory
+Yizhi Meng,CME318,3,5,1.0,A,non mandatory
+Yizhi Meng,CME371,3,5,,Not_Sure_Yet,Y
+Yizhi Meng,CME318,4,5,,A,Y
+Yizhi Meng,CME318,3,2,,,
+Yizhi Meng,CME318,2,5,,A,Y
+Yizhi Meng,CME318,3,5,,,
+Yizhi Meng,CME318,3,5,,,
+Ridha Kamoua,ESE273,4,5,1.0,,mandatory
+Ridha Kamoua,EEO331,3,5,1.0,B+,non mandatory
+Ridha Kamoua,ESE273,3,4,1.0,B+,non mandatory
+Ridha Kamoua,ESE273,3,5,1.0,A,non mandatory
+Ridha Kamoua,ESE,3,5,1.0,B,mandatory
+Ridha Kamoua,ESE273,3,5,1.0,Not sure yet,non mandatory
+Ridha Kamoua,EEO331,5,1,,Not sure yet,non mandatory
+Ridha Kamoua,ESE325,3,4,1.0,B+,
+Ridha Kamoua,ESE331,3,4,1.0,C+,non mandatory
+Ridha Kamoua,ESE372,3,1,0.0,,non mandatory
+Ridha Kamoua,EEO331,3,4,1.0,A,mandatory
+Ridha Kamoua,ESE372,3,4,,Rather not say,non mandatory
+Ridha Kamoua,ESE231,3,5,,,N
+Ridha Kamoua,ESE372,1,5,,,
+Ridha Kamoua,ESE231,4,3,,,
+Ridha Kamoua,ESE372,2,5,,,
+Ridha Kamoua,ESE231,5,4,,,
+Ridha Kamoua,ESE231,5,4,,,
+Ridha Kamoua,ITS102,1,4,,,
+Ridha Kamoua,ESE372,1,5,,,
+Emre Salman,ESE555,2,5,1.0,A,non mandatory
+Emre Salman,ESE555,3,4,1.0,A-,non mandatory
+Emre Salman,ESE555,3,5,1.0,A-,non mandatory
+Emre Salman,ESE324,3,5,1.0,B+,non mandatory
+Emre Salman,ESE324,3,2,,Not sure yet,non mandatory
+Emre Salman,ESE555,3,5,1.0,A,
+Emre Salman,ESE324,3,5,1.0,A-,non mandatory
+Emre Salman,ESE324,3,5,,,mandatory
+Emre Salman,ESE324,4,4,,,non mandatory
+Xin Wang,ESE505,2,5,1.0,A,non mandatory
+Xin Wang,ESE224,3,5,1.0,A,mandatory
+Xin Wang,ESE224,4,1,,A,mandatory
+Xin Wang,ESE505,3,1,0.0,Not sure yet,non mandatory
+Xin Wang,ESE506,4,5,1.0,A,non mandatory
+Xin Wang,ESE224,2,3,0.0,,non mandatory
+Xin Wang,ESE224,3,3,0.0,,non mandatory
+Xin Wang,ESE224,3,3,0.0,,
+Xin Wang,ESE224,5,1,0.0,,mandatory
+Xin Wang,ESE224,1,1,0.0,A,
+Xin Wang,ESE505,4,1,0.0,,non mandatory
+Xin Wang,ESE506,4,1,0.0,,
+Xin Wang,ESE506,4,1,,,non mandatory
+Xin Wang,ESE506,5,1,,,non mandatory
+Xin Wang,ESE506,2,4,,,mandatory
+Xin Wang,ESE224,3,1,,A,mandatory
+Xin Wang,ESE224,5,1,,Not sure yet,mandatory
+Xin Wang,ESE224,2,1,,A,non mandatory
+Xin Wang,ESE224,3,1,,A,non mandatory
+Xin Wang,ESE224,4,1,,,mandatory
+Murali Subbarao,ESE568,2,5,1.0,A,non mandatory
+Murali Subbarao,ESE358,4,1,,A,non mandatory
+Murali Subbarao,ESE358,2,1,,Not sure yet,non mandatory
+Murali Subbarao,ESE568,3,1,,,non mandatory
+Murali Subbarao,ESE344,3,2,1.0,A-,non mandatory
+Murali Subbarao,ESE344,2,3,1.0,Not sure yet,non mandatory
+Murali Subbarao,ESE558,2,5,1.0,,
+Murali Subbarao,ESE344,4,5,1.0,,non mandatory
+Murali Subbarao,ESE558,3,5,1.0,B+,mandatory
+Murali Subbarao,ESE358,3,1,0.0,Not sure yet,non mandatory
+Murali Subbarao,ESE558,4,5,1.0,,mandatory
+Murali Subbarao,ESE344,4,2,,,
+Murali Subbarao,ESE558,1,5,,,
+Murali Subbarao,ESE558,5,1,,,
+Murali Subbarao,ESE558,5,1,,,
+Murali Subbarao,ESE358,2,5,,,
+Murali Subbarao,ESE358,3,5,,,
+Murali Subbarao,ESE558,2,2,,,
+Murali Subbarao,ESEXXX,5,1,,,
+Murali Subbarao,ESE344,4,4,,,
+Vibha Mane,ESE305,2,5,1.0,Not sure yet,mandatory
+Vibha Mane,ESE305,3,1,,Not sure yet,mandatory
+Vibha Mane,ESE305,3,2,,,mandatory
+Vibha Mane,ESE388,4,2,,A,mandatory
+Vibha Mane,ESE305,3,2,,A,mandatory
+Vibha Mane,ESE388,3,5,1.0,,mandatory
+Vibha Mane,EEO224,4,5,1.0,A+,non mandatory
+Vibha Mane,ESE188,3,5,0.0,,
+Vibha Mane,CSE353,1,1,0.0,A-,mandatory
+Vibha Mane,ESE188,1,5,1.0,A-,non mandatory
+Vibha Mane,ESE306,3,3,1.0,A,mandatory
+Vibha Mane,ESE306,3,2,0.0,,non mandatory
+Vibha Mane,ESE305,3,4,1.0,A-,non mandatory
+Vibha Mane,ESE305,4,5,,,non mandatory
+Todd Pittinsky,EST202,1,5,1.0,A,non mandatory
+Todd Pittinsky,EST202,1,3,1.0,A,non mandatory
+Thomas Robertazzi,ESE346,1,2,,A,non mandatory
+Thomas Robertazzi,ESE346,1,5,1.0,A,non mandatory
+Thomas Robertazzi,ESE306,2,5,1.0,Rather not say,non mandatory
+Thomas Robertazzi,ESE306,2,5,1.0,Rather not say,non mandatory
+Thomas Robertazzi,ESE306,2,3,1.0,Rather not say,non mandatory
+Thomas Robertazzi,ESE271,5,5,1.0,A,non mandatory
+Thomas Robertazzi,ESE271,2,5,1.0,A,non mandatory
+Thomas Robertazzi,EEO271,3,5,,,non mandatory
+Thomas Robertazzi,CSE346,2,3,,,
+Thomas Robertazzi,EEO271,2,4,,B+,mandatory
+Thomas Robertazzi,ESE546,1,5,,,
+Thomas Robertazzi,HON113,1,5,,A,Y
+Thomas Robertazzi,ITS101,5,5,,,
+Thomas Robertazzi,ESE346,1,5,,,
+Thomas Robertazzi,ITS102,3,4,,,
+Thomas Robertazzi,ESE306,1,2,,,
+Thomas Robertazzi,ESE346,1,5,,,
+Thomas Robertazzi,LSE310,1,5,,,
+Thomas Robertazzi,LSE310,1,5,,,
+Thomas Robertazzi,ESE346,2,2,,,
+Gary Paul Halada,ESG201,1,5,1.0,A,non mandatory
+Gary Paul Halada,HON105,1,2,1.0,A,mandatory
+Gary Paul Halada,HON105,1,5,1.0,A,non mandatory
+Gary Paul Halada,ESG100,2,4,1.0,A,
+Gary Paul Halada,ESG100,1,4,1.0,A,mandatory
+Gary Paul Halada,ESG201,3,1,0.0,B-,
+Gary Paul Halada,ESG201,2,1,0.0,B+,non mandatory
+Gary Paul Halada,ESG201,1,1,1.0,B+,mandatory
+Gary Paul Halada,ESG201,1,1,,A,non mandatory
+Gary Paul Halada,ESG201,1,3,,,non mandatory
+Gary Paul Halada,ESG201,3,3,,,
+Gary Paul Halada,ESG201,1,2,,,
+Gary Paul Halada,ESG201,2,1,,,
+Gary Paul Halada,BME213,1,3,,,
+Gary Paul Halada,ESG201,1,5,,,
+Gary Paul Halada,ESG100,1,5,,,
+Gary Paul Halada,ESG201,1,4,,,
+Gary Paul Halada,ESG100,1,5,,,
+Gary Paul Halada,ESG100,2,5,,,
+Gary Paul Halada,ESG100,1,5,,,
+Mikhail Dorojevets,ESE345,5,2,,Not sure yet,non mandatory
+Mikhail Dorojevets,ESE345,4,3,1.0,B,non mandatory
+Mikhail Dorojevets,ESE545,5,1,,C,mandatory
+Mikhail Dorojevets,ESE345,4,5,1.0,A,mandatory
+Mikhail Dorojevets,ESE345,5,3,0.0,,non mandatory
+Mikhail Dorojevets,ESE345,5,5,1.0,Not sure yet,non mandatory
+Mikhail Dorojevets,ESE345,3,4,,A,non mandatory
+Mikhail Dorojevets,ESE545,3,5,,B+,non mandatory
+Mikhail Dorojevets,ESE345,4,3,,,
+Mikhail Dorojevets,ESE545,4,4,,,
+Mikhail Dorojevets,ESE545,5,5,,,
+Mikhail Dorojevets,ESEA,5,3,,,
+Mikhail Dorojevets,ESE545,5,5,,,
+Mikhail Dorojevets,ESE345,5,2,,,
+Mikhail Dorojevets,ESE345,4,3,,,
+Mikhail Dorojevets,ESE345ESE440,5,5,,,
+Mikhail Dorojevets,ESE345,4,5,,,
+Mikhail Dorojevets,ESE345,3,1,,,
+Mikhail Dorojevets,ESE545,5,4,,,
+Mikhail Dorojevets,ESE545,5,1,,,
+Kenneth Short,ESE280,4,4,1.0,Not sure yet,non mandatory
+Kenneth Short,ESE280,2,5,1.0,A+,non mandatory
+Kenneth Short,ESE381,4,5,1.0,A,mandatory
+Kenneth Short,ESE381,4,5,1.0,,mandatory
+Kenneth Short,ESE280,4,4,1.0,B+,non mandatory
+Kenneth Short,ESE280,5,5,1.0,,non mandatory
+Kenneth Short,ESE382,3,5,1.0,A,non mandatory
+Kenneth Short,ESE280,4,5,1.0,A,non mandatory
+Kenneth Short,ESE280,4,5,1.0,A-,non mandatory
+Kenneth Short,ESE280,5,4,1.0,C+,mandatory
+Kenneth Short,ESE280,5,4,,B,mandatory
+Kenneth Short,ESE280,5,1,,C+,non mandatory
+Kenneth Short,ESE280,5,1,,Incomplete,non mandatory
+Kenneth Short,ESE280,5,2,,Incomplete,non mandatory
+Kenneth Short,ESE280,5,5,1.0,A,non mandatory
+Kenneth Short,ESE280,5,4,1.0,Rather not say,non mandatory
+Kenneth Short,ESE280,5,1,0.0,Not sure yet,mandatory
+Kenneth Short,ESE280,5,1,0.0,Not sure yet,non mandatory
+Kenneth Short,ESE280,5,1,0.0,,mandatory
+Kenneth Short,ESE280,5,1,0.0,,mandatory
+Sergey Suchalkin,ESE271,4,5,1.0,A,non mandatory
+Sergey Suchalkin,ESE271,1,5,1.0,A+,non mandatory
+Sergey Suchalkin,ESE519,4,2,,,non mandatory
+Sergey Suchalkin,ESE271,4,5,1.0,A,non mandatory
+Sergey Suchalkin,ESE271,3,5,1.0,B+,non mandatory
+Sergey Suchalkin,ESE271,3,4,1.0,A,non mandatory
+Sergey Suchalkin,ESE271,3,5,1.0,,
+Sergey Suchalkin,ESE211,1,5,1.0,A,non mandatory
+Sergey Suchalkin,ESE271,2,5,1.0,A,
+Sergey Suchalkin,ESE271,2,5,1.0,A,mandatory
+Sergey Suchalkin,ESE271,4,5,1.0,B+,non mandatory
+Sergey Suchalkin,ESE271,4,1,0.0,A-,non mandatory
+Wendy Tang,ESE440,3,4,1.0,Not sure yet,non mandatory
+Wendy Tang,ESE440,1,4,1.0,A,mandatory
+Wendy Tang,ITS102,1,4,,,mandatory
+Edwin Tjoe,EST201,1,5,1.0,A+,non mandatory
+Edwin Tjoe,EST201,3,5,1.0,A+,mandatory
+Edwin Tjoe,EST201,1,5,1.0,A,non mandatory
+Edwin Tjoe,EST201,1,5,1.0,A,non mandatory
+Edwin Tjoe,EST201,2,5,1.0,,N
+Edwin Tjoe,EST201,1,5,1.0,A,
+Edwin Tjoe,EST201,1,5,1.0,A,non mandatory
+Edwin Tjoe,EST201,4,5,1.0,A+,mandatory
+Edwin Tjoe,EST201,1,5,1.0,A,
+Edwin Tjoe,EST201,1,5,1.0,A,non mandatory
+Edwin Tjoe,EST201,1,3,1.0,A,non mandatory
+Edwin Tjoe,EST201,2,4,1.0,A,
+Edwin Tjoe,EST201,3,4,,A,mandatory
+Edwin Tjoe,EST201,1,5,,A,non mandatory
+Edwin Tjoe,EST201,1,2,,A,
+Edwin Tjoe,EST201,1,1,,,
+Edwin Tjoe,EST201,2,5,,A,mandatory
+Edwin Tjoe,EST201,1,4,,A,mandatory
+Edwin Tjoe,EST201,1,3,,Not sure yet,mandatory
+Edwin Tjoe,EST201,3,1,,,
+Kevin Moriarty,EST194,3,5,1.0,A+,mandatory
+Kevin Moriarty,EST320,3,4,1.0,A,non mandatory
+Kevin Moriarty,EST392,1,5,1.0,A,non mandatory
+Kevin Moriarty,LDS102,1,2,0.0,A,mandatory
+Kevin Moriarty,LDS102,1,5,1.0,A+,mandatory
+Kevin Moriarty,EST392,1,5,1.0,A,non mandatory
+Kevin Moriarty,EST392,2,5,0.0,A,non mandatory
+Kevin Moriarty,EST392,1,5,1.0,A,non mandatory
+Kevin Moriarty,EST392,3,4,1.0,B,non mandatory
+Kevin Moriarty,EST392,1,5,1.0,A,mandatory
+Kevin Moriarty,EST392,2,3,0.0,B+,non mandatory
+Kevin Moriarty,EST392,2,5,1.0,A+,
+Kevin Moriarty,EST392,4,2,,C,non mandatory
+Kevin Moriarty,EST391,2,5,,B+,
+Kevin Moriarty,EST391392,2,5,,A,non mandatory
+Kevin Moriarty,EST392,2,5,,,
+Kevin Moriarty,EST392,2,5,,A,non mandatory
+Kevin Moriarty,EST392,2,3,,A,N
+Kevin Moriarty,EST392,2,5,,,
+Kevin Moriarty,EST392,4,4,,,N
+Jeffrey GE,Mec260,3,1,,C-,mandatory
+Jeffrey GE,Mec260,2,1,,A,mandatory
+Jeffrey GE,Mec260,3,1,,B,mandatory
+Jeffrey GE,Mec260,4,1,,C+,mandatory
+Jeffrey GE,Mec260,1,4,1.0,A,non mandatory
+Jeffrey GE,ME403,3,5,,A,
+Jeffrey GE,MEC203,2,4,,,
+Jeffrey GE,MEC568,4,5,,,
+Jeffrey GE,MEC262,3,1,,,
+Jeffrey GE,MEC599,2,5,,,
+Jeffrey GE,MEC320,4,2,,,
+Jeffrey GE,ENGENG,3,5,,,
+Jeffrey GE,MEC262,3,1,,,
+Jeffrey GE,MEC262,5,3,,,
+Jeffrey GE,MEC262,3,3,,,
+Jeffrey GE,MEC310,5,1,,,
+Jeffrey GE,MEC440,3,3,,,
+Alexa Doboli,ESE327,5,1,,B+,mandatory
+Alexa Doboli,ESE124,4,3,,B+,non mandatory
+Alexa Doboli,ESE327,4,4,1.0,A,mandatory
+Alexa Doboli,ESE124,4,4,1.0,A-,non mandatory
+Alexa Doboli,ESE124,4,4,1.0,B,mandatory
+Alexa Doboli,ESE355,4,5,1.0,B,mandatory
+Alexa Doboli,ESE124,3,5,1.0,B+,non mandatory
+Alexa Doboli,ESE124,3,5,1.0,A,mandatory
+Alexa Doboli,ESE124,5,1,0.0,B+,mandatory
+Alexa Doboli,ESE124,4,1,0.0,F,mandatory
+Alexa Doboli,ESE124,5,1,0.0,B+,mandatory
+Alexa Doboli,ESE124,5,1,0.0,A-,mandatory
+Alexa Doboli,ESE556,3,5,1.0,,
+Alexa Doboli,ESE124,3,1,0.0,A-,non mandatory
+Alexa Doboli,ESE124,4,1,0.0,C+,mandatory
+Alexa Doboli,ESE124,4,1,0.0,Not sure yet,non mandatory
+Alexa Doboli,ESE124,4,1,0.0,Not sure yet,non mandatory
+Alexa Doboli,ESE124,3,1,0.0,B,mandatory
+Alexa Doboli,ESE124,4,5,1.0,A-,mandatory
+Alexa Doboli,ESE124,4,5,1.0,,mandatory
+Peter Milder,ESE118,3,5,1.0,A-,non mandatory
+Peter Milder,ESE118,3,3,1.0,,non mandatory
+Peter Milder,ESE507,5,2,,B,mandatory
+Peter Milder,ESE507,3,5,1.0,,non mandatory
+Peter Milder,ESE118,2,5,1.0,A-,non mandatory
+Peter Milder,ESE118,3,5,1.0,B+,non mandatory
+Peter Milder,ESE118,3,5,1.0,A,non mandatory
+Peter Milder,ESE118,4,5,1.0,,mandatory
+Peter Milder,ESE118,3,5,1.0,A-,non mandatory
+Peter Milder,ESE118,4,5,1.0,Not sure yet,non mandatory
+Peter Milder,ESE118,3,5,1.0,,mandatory
+Peter Milder,ESE507,4,5,1.0,A,non mandatory
+Peter Milder,ESE507,4,5,1.0,,non mandatory
+Peter Milder,ESE507,4,5,1.0,A-,non mandatory
+Peter Milder,ESE507,4,5,,B,non mandatory
+Peter Milder,ESE305,2,5,,A-,non mandatory
+Peter Milder,ESE305,3,5,,Incomplete,non mandatory
+Peter Milder,ESE305,2,5,,,non mandatory
+Peter Milder,ESE305,1,5,,,non mandatory
+Peter Milder,ESE670,3,5,,A,N
+Jan Folkson,ESE121,3,2,,Not sure yet,mandatory
+Jan Folkson,ESE121,3,4,1.0,A,mandatory
+Jan Folkson,ESE121,2,2,,Not sure yet,mandatory
+Jan Folkson,ESE121,1,4,1.0,A,mandatory
+Jan Folkson,ESE121,1,3,0.0,Not sure yet,mandatory
+Jan Folkson,ESE121,5,1,0.0,Drop/Withdrawal,mandatory
+Jan Folkson,ESE121,3,4,1.0,A,mandatory
+Jan Folkson,ESE121,4,2,0.0,A,mandatory
+Jan Folkson,ESE121,4,5,1.0,B,mandatory
+Jan Folkson,ESE121,3,5,0.0,C-,mandatory
+Jan Folkson,ESE121,3,5,1.0,A,non mandatory
+Jan Folkson,ESE121,4,2,0.0,B,mandatory
+Jan Folkson,ESE121,4,4,1.0,B+,non mandatory
+Jan Folkson,ESE121,1,5,1.0,A+,non mandatory
+Jan Folkson,ESE121,3,5,1.0,A,mandatory
+Jan Folkson,ESE121,2,4,1.0,A-,non mandatory
+Jan Folkson,ESE121,2,4,1.0,,mandatory
+Jan Folkson,ESE121,1,4,1.0,A,mandatory
+Jan Folkson,ESE121,1,5,,B+,mandatory
+Jan Folkson,ESE121,2,3,,A-,non mandatory
+Harbans S. Dhadwal,ESE271,5,1,,Not sure yet,non mandatory
+Harbans S. Dhadwal,ESE440,3,3,,Rather not say,mandatory
+Harbans S. Dhadwal,ESE271,5,3,,A,non mandatory
+Harbans S. Dhadwal,ESE271,5,1,,B+,non mandatory
+Harbans S. Dhadwal,ESE440,1,1,0.0,Not sure yet,mandatory
+Harbans S. Dhadwal,ESE271,5,1,0.0,F,mandatory
+Harbans S. Dhadwal,ESE319,1,1,0.0,,non mandatory
+Harbans S. Dhadwal,ESE319,5,4,0.0,B-,mandatory
+Harbans S. Dhadwal,ESE271,5,3,,C+,non mandatory
+Harbans S. Dhadwal,ESE319,5,3,,C,non mandatory
+Harbans S. Dhadwal,ESE271,5,1,,,
+Harbans S. Dhadwal,ESE271,4,5,,A,non mandatory
+Harbans S. Dhadwal,ESE271,5,2,,,
+Harbans S. Dhadwal,ESE319,5,4,,,
+Harbans S. Dhadwal,ESE363,3,5,,,
+Harbans S. Dhadwal,ESE363,5,2,,,
+Harbans S. Dhadwal,ESE319,5,3,,,
+Harbans S. Dhadwal,ESE319,5,4,,,
+Harbans S. Dhadwal,ESE363,5,1,,,
+Harbans S. Dhadwal,ESE319,5,3,,,
+Ron Marge,ESE300,1,1,,A,mandatory
+Ron Marge,ESE300,5,1,,,
+Ron Marge,ESE300,1,1,,,
+Ron Marge,ESE300,5,1,,,
+Ron Marge,ESE300,4,2,,,
+Ron Marge,ESE300,2,3,,,
+Ron Marge,ESE300,5,1,,,
+Ron Marge,ESE300,4,2,,,
+Tae Jin Kim,CME312,5,1,,Not sure yet,mandatory
+Tae Jin Kim,CME312,2,3,1.0,Not sure yet,mandatory
+Tae Jin Kim,CME312,3,5,1.0,Not sure yet,mandatory
+Tae Jin Kim,CME312,4,4,1.0,,mandatory
+Tae Jin Kim,CME312,3,5,1.0,,mandatory
+Tae Jin Kim,CME499,2,5,,,
+Tadanori Koga,CME314,1,4,1.0,Not sure yet,mandatory
+Tadanori Koga,CME304,3,4,1.0,A-,mandatory
+Tadanori Koga,CME314,3,4,1.0,,non mandatory
+Tadanori Koga,CME304,2,4,1.0,,mandatory
+Tadanori Koga,CME304,4,4,1.0,,mandatory
+Tadanori Koga,CME304,3,5,1.0,A,mandatory
+Tadanori Koga,CME304,2,1,,,
+Tadanori Koga,CME304,1,5,,A,Y
+Tadanori Koga,CME315,2,4,,,
+Tadanori Koga,CME304,1,1,,,
+Tadanori Koga,CME315,2,5,,,
+Andrew Lane,ESE122,1,3,,A,non mandatory
+Andrew Lane,ESE122,1,5,1.0,A-,non mandatory
+Andrew Lane,ESE122,1,5,1.0,Not sure yet,non mandatory
+Andrew Lane,ESE122,3,5,1.0,,non mandatory
+Andrew Lane,ESE122,2,4,1.0,A-,non mandatory
+Robert Kukta,MEC260,2,5,1.0,A,non mandatory
+Robert Kukta,M3,3,5,1.0,A,
+Robert Kukta,MEC260,3,4,1.0,A,non mandatory
+Robert Kukta,MEC260,3,3,0.0,C+,mandatory
+Robert Kukta,MEC260,4,2,1.0,,mandatory
+Robert Kukta,MEC260,3,5,,B+,
+Robert Kukta,MEC363,3,4,,B,
+Robert Kukta,MEC260,3,4,,A,non mandatory
+Robert Kukta,MEC260,4,3,,,
+Robert Kukta,MEC260,3,3,,,N
+Robert Kukta,MEC260,2,4,,A-,Y
+Robert Kukta,MEC260,2,4,,,
+Robert Kukta,MEC260,2,4,,,
+Robert Kukta,MEC260,4,1,,,
+Robert Kukta,MEC363,1,5,,,
+Robert Kukta,MEC260,3,4,,,
+Robert Kukta,MEC260,1,5,,,
+Robert Kukta,MEC260,2,5,,,
+Robert Kukta,MEC260,2,1,,,
+Robert Kukta,MEC260,1,5,,,
+Thomas Cubaud,MEC364,3,2,,A,non mandatory
+Thomas Cubaud,MEC364,2,5,1.0,A,non mandatory
+Thomas Cubaud,MEC364,3,1,,Not sure yet,non mandatory
+Thomas Cubaud,MEC364,4,1,0.0,A,non mandatory
+Thomas Cubaud,MEC364,3,5,,,
+Thomas Cubaud,MEC364,2,4,,A-,non mandatory
+Thomas Cubaud,MEC364,4,1,,,non mandatory
+Thomas Cubaud,MEC364,5,1,,,non mandatory
+Thomas Cubaud,MEC214,3,1,,,N
+Thomas Cubaud,MEC214,3,3,,,
+Thomas Cubaud,MEC214,3,3,,,
+Thomas Cubaud,MEC214,5,1,,,
+Thomas Cubaud,MEC214,4,1,,,
+Thomas Cubaud,MEC214,3,1,,,
+Foluso Ladeinde,MEC422,4,4,1.0,B-,mandatory
+Foluso Ladeinde,MEC422,5,1,,Not sure yet,mandatory
+Foluso Ladeinde,MEC507,5,2,,B+,non mandatory
+Foluso Ladeinde,MEC422,5,4,1.0,B+,mandatory
+Foluso Ladeinde,MEC320,4,5,1.0,A,non mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,B,mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,Not sure yet,mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,Not sure yet,
+Foluso Ladeinde,MEC422,5,1,0.0,Not sure yet,non mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,Not sure yet,mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,F,mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,A,mandatory
+Foluso Ladeinde,MEC422,5,2,0.0,,mandatory
+Foluso Ladeinde,MEC422,5,1,0.0,Incomplete,non mandatory
+Foluso Ladeinde,MEC1,5,1,0.0,,mandatory
+Foluso Ladeinde,MEC1,5,1,0.0,,
+Foluso Ladeinde,MEC102,5,1,0.0,Incomplete,mandatory
+Foluso Ladeinde,MEC320,5,1,,,
+Foluso Ladeinde,MEC320,5,1,,,
+Foluso Ladeinde,MEC1,5,1,,,
+Clive Clayton,ESG332,2,1,,B+,non mandatory
+Clive Clayton,ESG332,5,1,,Not sure yet,non mandatory
+Clive Clayton,ESG332,3,1,0.0,A-,non mandatory
+Clive Clayton,ESG332,3,1,0.0,,non mandatory
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG332,2,2,,,
+Clive Clayton,ESG332,2,3,,,
+Clive Clayton,ESG332,2,3,,,
+Clive Clayton,ESG332,2,3,,,
+Clive Clayton,ESG332,5,2,,,
+Clive Clayton,ESG332,3,2,,,
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG332,3,1,,,
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG332,3,2,,,
+Clive Clayton,ESG332,2,2,,,
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG332,5,1,,,
+Clive Clayton,ESG,3,1,,,
+Donna Tumminello,MEC300,2,1,,A,mandatory
+Donna Tumminello,ESE201,3,1,,,
+Donna Tumminello,MEC300,2,1,,Not sure yet,mandatory
+Donna Tumminello,EEO302,3,1,,,non mandatory
+Donna Tumminello,EEO302,3,2,,A,non mandatory
+Donna Tumminello,ESE301,2,1,,A,mandatory
+Donna Tumminello,ESE301,3,1,,Not sure yet,mandatory
+Donna Tumminello,MEC300,1,1,,B,mandatory
+Donna Tumminello,EEO302,3,2,,B+,non mandatory
+Donna Tumminello,ESE301,2,3,0.0,,mandatory
+Donna Tumminello,EEO302,3,2,0.0,Not sure yet,non mandatory
+Donna Tumminello,ESE301,1,2,0.0,A,mandatory
+Donna Tumminello,ESE201,2,1,0.0,,non mandatory
+Donna Tumminello,ESE301,3,2,0.0,Not sure yet,non mandatory
+Donna Tumminello,ESE201,2,1,0.0,,non mandatory
+Donna Tumminello,ESE201,2,5,1.0,,mandatory
+Donna Tumminello,ESE301,1,2,,,mandatory
+Donna Tumminello,CME233,4,2,,,
+Donna Tumminello,ESE201,2,5,,A,N
+Donna Tumminello,ESE201,2,4,,,
+Jenny Chen,ese124,2,5,1.0,A,mandatory
+Jenny Chen,ese124,3,5,1.0,A-,mandatory
+Jenny Chen,ese124,3,5,1.0,Not sure yet,
+Jenny Chen,ese124,3,5,1.0,Not sure yet,mandatory
+Jonathan Sokolov,ESG281,3,5,1.0,A,non mandatory
+Jonathan Sokolov,ESG281,2,2,,B,non mandatory
+Jonathan Sokolov,ESG301,3,2,,A-,non mandatory
+Jonathan Sokolov,ESG301,1,5,1.0,,
+Jonathan Sokolov,ESG301,1,5,1.0,,
+Jonathan Sokolov,ESG301,1,5,1.0,,
+Jonathan Sokolov,ESG333,3,5,,,non mandatory
+Jonathan Sokolov,ESG333,2,5,,,
+Jonathan Sokolov,ESG301,1,2,,,
+Jonathan Sokolov,ESG302,1,4,,,
+Jonathan Sokolov,ESG333,1,5,,,
+Jonathan Sokolov,ESG333,5,3,,,
+Kedar Kirane,MEC456,3,5,1.0,B,non mandatory
+Kedar Kirane,MEC363,4,5,1.0,B-,non mandatory
+Kedar Kirane,MEC363,3,5,1.0,B+,non mandatory
+Kedar Kirane,MEC363,3,4,1.0,A,mandatory
+Kedar Kirane,MEC363,3,5,1.0,A,mandatory
+Kedar Kirane,MEC363,1,1,0.0,,
+Kedar Kirane,MEC363,4,5,1.0,A,non mandatory
+Kedar Kirane,MEC363,3,4,1.0,,non mandatory
+Kedar Kirane,MEC363,3,4,1.0,Not sure yet,non mandatory
+Jay Mendelson,MEC260,5,1,,Rather not say,mandatory
+Jay Mendelson,MEC260,5,1,,C+,mandatory
+Jay Mendelson,MEC260,4,1,,C,non mandatory
+Jay Mendelson,MEC260,5,1,,Not sure yet,mandatory
+Jay Mendelson,MEC410,2,5,1.0,A,mandatory
+Jay Mendelson,MEC269,2,1,0.0,A-,non mandatory
+Jay Mendelson,MEC260,5,1,0.0,Audit/No Grade,mandatory
+Jay Mendelson,MEC260,3,1,0.0,Not sure yet,mandatory
+Jay Mendelson,MEC280,4,2,0.0,,
+Jay Mendelson,ITS102,1,5,1.0,A+,mandatory
+Jay Mendelson,MEC410,3,1,0.0,,mandatory
+Jay Mendelson,MEC410,2,1,0.0,A,mandatory
+Jay Mendelson,MEC410,3,4,1.0,,mandatory
+Jay Mendelson,MEC410,3,5,1.0,,mandatory
+Milutin Stanacevic,ESE516,2,1,,B-,non mandatory
+Milutin Stanacevic,ESE517,5,1,0.0,,non mandatory
+Milutin Stanacevic,ESE516,2,1,0.0,,non mandatory
+Milutin Stanacevic,ESE517,5,1,0.0,,non mandatory
+Milutin Stanacevic,ESE517,2,5,1.0,A,non mandatory
+Milutin Stanacevic,ESE517,4,2,0.0,,
+Milutin Stanacevic,ESE517,4,2,1.0,,
+Milutin Stanacevic,ESE517,4,4,1.0,,
+Milutin Stanacevic,ESE517,3,2,0.0,,
+Milutin Stanacevic,ESE516,2,1,0.0,,
+Milutin Stanacevic,ESE517,3,1,0.0,,
+Milutin Stanacevic,ESE516,1,1,0.0,,
+Milutin Stanacevic,ESE516,4,5,1.0,,non mandatory
+Milutin Stanacevic,ESE516,1,5,,,
+Milutin Stanacevic,ESE517,3,5,,A+,non mandatory
+Milutin Stanacevic,ESE516,3,4,,,N
+Milutin Stanacevic,ECE516,4,5,,,
+Matthew Henigman,EST305,3,4,1.0,A,mandatory
+Matthew Henigman,EST310,5,1,,Not sure yet,non mandatory
+Matthew Henigman,EST305,2,5,1.0,A-,non mandatory
+Matthew Henigman,EST305,3,5,1.0,A,non mandatory
+Matthew Henigman,EST221,2,5,1.0,A,non mandatory
+Matthew Henigman,EST305,2,5,1.0,A,non mandatory
+Matthew Henigman,EST221,1,5,1.0,A,non mandatory
+Matthew Henigman,EST320,3,5,1.0,,
+Matthew Henigman,EST320,2,5,1.0,A,non mandatory
+Matthew Henigman,EST320,2,5,1.0,A-,non mandatory
+Matthew Henigman,EST320,2,5,1.0,,non mandatory
+Matthew Henigman,EST100,1,5,1.0,A+,non mandatory
+Matthew Henigman,EST320,2,5,1.0,Not sure yet,non mandatory
+Matthew Henigman,EST100,3,5,1.0,Not sure yet,non mandatory
+Matthew Henigman,EST100,2,5,1.0,,non mandatory
+Matthew Henigman,EST310,2,5,1.0,,non mandatory
+Matthew Henigman,EST320,1,5,1.0,,non mandatory
+Matthew Henigman,EST100,2,4,1.0,A-,non mandatory
+Matthew Henigman,EST100,1,5,1.0,Not sure yet,non mandatory
+Matthew Henigman,EST310,5,1,,Incomplete,mandatory
+Susu Xu,CIV350,2,5,1.0,A,mandatory
+Jayant Parekh,ESE319,3,2,,B,non mandatory
+Jayant Parekh,ESE319,3,4,,Not sure yet,non mandatory
+Jayant Parekh,ESE319,3,5,1.0,,mandatory
+Jayant Parekh,ESE271,5,1,0.0,Not sure yet,non mandatory
+Jayant Parekh,ESE319,5,5,0.0,Rather not say,
+Jayant Parekh,ESE319,4,3,1.0,Not sure yet,mandatory
+Jayant Parekh,ESE205,3,1,0.0,A,mandatory
+Jayant Parekh,ESE205,3,4,1.0,,mandatory
+Jayant Parekh,ESE305,5,1,0.0,Incomplete,mandatory
+Jayant Parekh,ESE319,3,5,1.0,A-,mandatory
+Jayant Parekh,ESE124,2,4,1.0,,non mandatory
+Jayant Parekh,ESE124,2,5,1.0,,mandatory
+Jayant Parekh,ESE271,3,1,0.0,A-,non mandatory
+Jayant Parekh,ESE124,2,3,1.0,B+,non mandatory
+Jayant Parekh,ESE124,2,4,,B+,mandatory
+Jayant Parekh,ESE271,1,4,,A,non mandatory
+Jayant Parekh,ESE271,2,5,,,mandatory
+Jayant Parekh,ESE124,3,3,,Incomplete,
+Jayant Parekh,ESE124,3,1,,,mandatory
+Jayant Parekh,ESE271,5,1,,,mandatory
+Devinder Mahajan,CME,3,5,1.0,A,non mandatory
+Devinder Mahajan,CME440,3,5,,,
+Devinder Mahajan,CME410,2,5,,,
+Devinder Mahajan,CME312,2,5,,,
+Devinder Mahajan,CME312,2,4,,,
+Devinder Mahajan,CME,2,4,,,
+William Calvo,CME201,4,1,,,mandatory
+William Calvo,CME201,2,5,1.0,,N
+William Calvo,CME201,2,1,0.0,B+,non mandatory
+William Calvo,CME201,2,1,0.0,A,non mandatory
+William Calvo,CME201,2,1,0.0,,mandatory
+William Calvo,CME201,1,4,1.0,,mandatory
+William Calvo,MET205,2,3,1.0,A-,non mandatory
+William Calvo,CME201,1,1,0.0,,mandatory
+William Calvo,CME201,1,4,1.0,A,mandatory
+William Calvo,CME201,1,4,1.0,,mandatory
+William Calvo,CME201,1,5,1.0,,mandatory
+William Calvo,CME201,1,2,,,mandatory
+William Calvo,CME201,1,3,,A,mandatory
+William Calvo,MBA503,3,5,,,
+William Calvo,MBA503,3,4,,,
+William Calvo,MBA503,1,1,,,
+William Calvo,MBA503,1,4,,,
+William Calvo,MBA589,4,1,,,
+William Calvo,BUS220,1,3,,,
+William Calvo,BUS220,5,1,,,
+Timothy Driscoll,ESE350,3,5,1.0,,mandatory
+Timothy Driscoll,ESE352,4,4,1.0,B+,mandatory
+Timothy Driscoll,ESE350,5,1,,,
+Timothy Driscoll,ESE352,3,4,,,
+Timothy Driscoll,ESE350,3,5,,,
+Shan  Lin,ESE343,1,1,0.0,Rather not say,non mandatory
+Shan  Lin,ESE543,3,1,0.0,B-,non mandatory
+Shan  Lin,ESE543,1,1,0.0,B,non mandatory
+Shan  Lin,ESE543,3,1,0.0,Not sure yet,non mandatory
+Shan  Lin,ESE343,2,1,0.0,Not sure yet,non mandatory
+Shan  Lin,ESE343,4,1,,Not sure yet,non mandatory
+Sangjin Hong,ESE122,3,4,1.0,A,non mandatory
+Sangjin Hong,ESE305,3,4,1.0,B+,non mandatory
+Sangjin Hong,EE501,1,5,,,
+Sangjin Hong,ESE440,1,5,,,
+Sangjin Hong,ESE501,4,4,,,
+Ji Liu,ESE306,3,1,0.0,B,non mandatory
+Leon Shterengas,ESE273,4,4,1.0,C,non mandatory
+Leon Shterengas,ESE273,4,1,0.0,C+,non mandatory
+Leon Shterengas,ESE211,1,1,0.0,,
+Leon Shterengas,ESE211,2,1,0.0,,
+Leon Shterengas,ESE372,4,4,,Not sure yet,non mandatory
+Leon Shterengas,ESE372,5,3,,Not sure yet,non mandatory
+Leon Shterengas,ESE372,4,3,,Not sure yet,non mandatory
+Leon Shterengas,ESE324,3,5,,Rather not say,mandatory
+Leon Shterengas,ESE372,2,4,,B,non mandatory
+Leon Shterengas,ESE271,2,5,,,
+Leon Shterengas,ESE271,1,5,,,
+Leon Shterengas,ESE211,1,5,,,
+Leon Shterengas,ESE211,1,5,,,
+Leon Shterengas,ESE372,2,5,,,
+Leon Shterengas,ESE211,3,5,,,
+Mikhail Gouzman,ESE314,3,1,0.0,,
+Mikhail Gouzman,ESE304,3,1,0.0,A-,mandatory
+Mikhail Gouzman,ESE304,5,1,0.0,,non mandatory
+Mikhail Gouzman,ESE304,4,5,1.0,B,non mandatory
+Mikhail Gouzman,ESE304,2,4,,,
+Mikhail Gouzman,ESE304,3,4,,,
+Mikhail Gouzman,ESE304,3,5,,,
+Mikhail Gouzman,ESE304,3,4,,,
+Mikhail Gouzman,ESE3EE,2,5,,,
+Mikhail Gouzman,ESE372,2,4,,,
+Mikhail Gouzman,VARIOUSEE,1,4,,B+,Y
+Jahangir S. Rastegar,MEC525,3,1,0.0,,non mandatory
+Jahangir S. Rastegar,MEC310,1,5,1.0,A+,mandatory
+Jahangir S. Rastegar,525,4,1,,C,
+Jahangir S. Rastegar,MEC525,5,1,,,N
+Jahangir S. Rastegar,MEC310,4,1,,,
+Jahangir S. Rastegar,MEC310,4,1,,,
+Jahangir S. Rastegar,MEC25,2,2,,,
+Jon Longtin,MEC301,4,5,1.0,B+,non mandatory
+Jon Longtin,MEC301,2,5,1.0,,non mandatory
+Jon Longtin,MEC102,5,3,,,
+Jon Longtin,MEC102,4,4,,,
+Jon Longtin,MEC301,3,4,,,non mandatory
+Jon Longtin,301,2,5,,A,non mandatory
+Jon Longtin,MEC102,1,5,,Not_Sure_Yet,N
+Jon Longtin,MEC102,3,5,,,
+Jon Longtin,MEC102,2,5,,,
+Jon Longtin,MEC301,4,5,,,
+Jon Longtin,MEC102,4,5,,,
+Jon Longtin,MEC301,3,5,,,
+Jon Longtin,MEC102,4,4,,,
+Jon Longtin,MEC102,4,4,,,
+Jon Longtin,MEC102,2,5,,,
+Jon Longtin,MEC102,4,4,,,
+Jon Longtin,MEC301,3,5,,,
+Jon Longtin,MEC301,4,5,,,
+Jon Longtin,MEC102,2,4,,,
+Jon Longtin,MEC102,3,5,,,
+Toshio Nakamura,MEC536,2,2,1.0,Rather not say,mandatory
+Toshio Nakamura,MEC455,1,1,,A,
+Toshio Nakamura,MEC260,5,1,,,
+Toshio Nakamura,STATICS,4,2,,,
+Toshio Nakamura,MEC260,3,3,,,
+Chang-Yong Nam,ESM542,3,1,0.0,,mandatory
+Vladimir Zaitsev,CME310,5,4,1.0,B,mandatory
+Vladimir Zaitsev,CME310,5,1,0.0,,mandatory
+Vladimir Zaitsev,CME310,4,4,,,mandatory
+Vladimir Zaitsev,CME310,4,4,,,mandatory
+Vladimir Zaitsev,CME310,5,1,,Not_Sure_Yet,Y
+Vladimir Zaitsev,CME310,5,1,,,
+Vladimir Zaitsev,CME310,5,1,,,
+Vladimir Zaitsev,CME310,5,2,,,
+Dmitri Gavrilov,ESE547,3,4,0.0,,mandatory
+Dmitri Gavrilov,ESE315,2,3,,,non mandatory
+Yuanyuan Yang,ESE536,3,5,1.0,A,mandatory
+Yuanyuan Yang,ESE333,2,2,,,
+Armen Zemanian,ESE271,3,5,1.0,A,non mandatory
+Armen Zemanian,ESE271,3,4,,,
+Armen Zemanian,ESE271,2,4,,,
+Armen Zemanian,ESE271,1,5,,,
+Armen Zemanian,ESE271,2,5,,,
+Armen Zemanian,ESE271,1,5,,,
+Armen Zemanian,ESE271,2,5,,,
+Armen Zemanian,ESE271,4,2,,,
+Armen Zemanian,ESE271,4,5,,,
+Armen Zemanian,ESE271,3,5,,,
+Armen Zemanian,ESE501,3,2,,,
+Armen Zemanian,ESE271,4,3,,,
+Hang-Sheng Tuan,ESE341,4,5,1.0,A,non mandatory
+Hang-Sheng Tuan,ESE341,3,5,,,
+Hang-Sheng Tuan,ESE372,5,1,,,
+Hang-Sheng Tuan,ESE231,4,2,,,
+Ryan Giles,CIV310,5,4,0.0,A-,non mandatory
+Ryan Giles,CIV312,5,5,1.0,Not sure yet,
+Molly Frame,BME200,2,4,1.0,,mandatory
+Molly Frame,BME200,1,5,1.0,A+,mandatory
+Molly Frame,BME430,5,4,,Rather not say,mandatory
+Molly Frame,BME,5,2,,,
+Molly Frame,BME100,4,4,,,
+Molly Frame,BME381,4,1,,,
+Molly Frame,BME100,5,4,,,
+Molly Frame,BME100,5,4,,,
+Molly Frame,BME381,4,4,,,
+Molly Frame,SEM,5,1,,,
+Lei Zuo,ME5814,3,1,0.0,A-,non mandatory
+Lei Zuo,MEC560,5,1,,B,Y
+Lei Zuo,MEC220,4,1,,B+,Y
+Lei Zuo,MEC220,2,3,,B+,N
+Lei Zuo,MEC220,4,3,,,
+Lei Zuo,MEC220,5,2,,,
+Lei Zuo,MEC316,4,5,,,
+Lei Zuo,MEC316,5,4,,,
+Lei Zuo,MEC316,5,1,,,
+Lei Zuo,MEC560,4,5,,,
+Lei Zuo,MEC402,5,5,,,
+John Murray,ESE547,4,5,1.0,A+,mandatory
+John Murray,ESE547,3,5,,,
+John Murray,ESE337,1,5,,,Y
+John Murray,ESE337,1,5,,,
+John Murray,ESE305,1,5,,,
+John Murray,ESE305,2,5,,,
+John Murray,ESE211,5,2,,,
+John Murray,ESE547,2,4,,,
+John Murray,ESE347,4,5,,,
+John Murray,DSPEEXX,4,5,,,
+John Murray,ESE271347,2,5,,,
+John Murray,ESE547,2,5,,,
+John Murray,ESE347,4,5,,,
+John Murray,EAS101,1,4,,,
+Chi-Tsong Chen,ES305,2,1,0.0,A-,mandatory
+Chi-Tsong Chen,ESE305,1,3,,,
+Chi-Tsong Chen,ESE305,1,2,,,
+Chi-Tsong Chen,ESE305,1,4,,,
+Chi-Tsong Chen,ESE305,3,4,,,
+Chi-Tsong Chen,ESE305,2,1,,,
+Chi-Tsong Chen,ESE305,1,2,,,
+Chi-Tsong Chen,ESE305,2,2,,,
+Chi-Tsong Chen,ESE305,2,3,,,
+Chi-Tsong Chen,ESE305,4,2,,,
+Chi-Tsong Chen,ESE305,2,1,,,
+Chi-Tsong Chen,ESE337,5,1,,,
+Chi-Tsong Chen,ESE305,5,1,,,
+Chi-Tsong Chen,ESE305,3,3,,,
+Chi-Tsong Chen,ESE315,4,3,,,
+Chi-Tsong Chen,ESE,4,1,,,
+Chi-Tsong Chen,ESE305315337,1,1,,,
+Chi-Tsong Chen,ESE305,3,1,,,
+Fan  Ye,ESE124,3,1,0.0,A,mandatory
+Fan  Ye,ESE224,3,5,,B,non mandatory
+Monica Fernandez-Bugallo,ESE340,3,5,1.0,A-,non mandatory
+Monica Fernandez-Bugallo,A22,1,5,,B+,non mandatory
+Monica Fernandez-Bugallo,ESE340,4,5,,,
+Monica Fernandez-Bugallo,ESE340,3,4,,,
+Monica Fernandez-Bugallo,ITS102,1,5,,,
+Monica Fernandez-Bugallo,ESE342,5,1,,,
+Monica Fernandez-Bugallo,ESE340,5,3,,,
+Monica Fernandez-Bugallo,ESE342,3,5,,,
+Monica Fernandez-Bugallo,ESE340,3,5,,,
+Monica Fernandez-Bugallo,ESE342,3,2,,,
+Monica Fernandez-Bugallo,ESE340342,4,5,,,
+Monica Fernandez-Bugallo,ESE340,3,5,,B,Y
+Lin-Shu Wang,MEC509,1,5,1.0,A+,non mandatory
+Lin-Shu Wang,MEC509,3,3,,,
+Lin-Shu Wang,MEC522,4,1,,,
+Anthony Olivio,ESE123,2,5,1.0,,mandatory
+Anthony Olivio,ESE123,1,5,,,
+Anthony Olivio,ESE314,3,5,,,
+Richard Darienzo,CME322,3,5,1.0,A,non mandatory
+Richard Darienzo,CME322,2,5,1.0,A,mandatory
+Richard Darienzo,CME322,3,5,1.0,,mandatory
+Stephen Gomes,EST392,5,2,0.0,Rather not say,mandatory
+Stephen Gomes,EST192,1,5,,,Y
+Stephen Gomes,EST392,1,5,,A+,Y
+Stephen Gomes,EST392,1,5,,A+,Y
+Maen Alkhader,MCE223,1,5,1.0,A+,non mandatory
+Maen Alkhader,MEC363,1,5,,B-,non mandatory
+Maen Alkhader,MEC363,3,5,,A,
+Maen Alkhader,MEC363,3,5,,A+,non mandatory
+Maen Alkhader,MEC363,3,5,,,
+Vladimir Samuilov,ESG281,1,4,,A,non mandatory
+Devicharan Chidambaram,MSE738,4,3,,B+,mandatory
+Devicharan Chidambaram,MSE472,3,4,,A,non mandatory
+Devicharan Chidambaram,CHE232,3,5,,A-,mandatory
+Devicharan Chidambaram,CHE232,3,5,,,
+Devicharan Chidambaram,MSE232,5,1,,C,N
+Devicharan Chidambaram,MSE232,3,5,,,
+Devicharan Chidambaram,ESM102,1,5,,,
+Devicharan Chidambaram,ESG201,3,5,,,
+Devicharan Chidambaram,ESG201,3,3,,,
+Petar Djuric,ESE306,4,4,,,mandatory
+Petar Djuric,ESE306,5,4,,A,mandatory
+Petar Djuric,ESE305,5,3,,C-,N
+Petar Djuric,ESE306,5,5,,,
+Petar Djuric,ESE306,4,2,,,
+Petar Djuric,ESE306,4,1,,,
+Petar Djuric,ESE503,4,5,,,
+Petar Djuric,ESE503,4,5,,,
+Petar Djuric,ESE306,5,2,,,
+Petar Djuric,ESE503,2,5,,,
+Petar Djuric,ESE306,4,4,,,
+Petar Djuric,ESE306,5,2,,,
+Petar Djuric,ESE306,5,1,,Not_Sure_Yet,Y
+Petar Djuric,ESE306,3,4,,,
+Jason Trelewicz,ESM150,4,3,,B+,mandatory
+David Hwang,MEC305,1,5,,A,non mandatory
+David Hwang,MEC501,2,5,,,
+Chad Korach,EME310330,3,4,,,
+Chad Korach,MEC102,3,2,,,
+Chad Korach,MEC262,4,2,,,
+Chad Korach,MEC262,4,5,,,
+Chad Korach,MEC262,3,1,,,
+Chad Korach,MEC262,4,2,,,
+Chad Korach,MEC262,5,1,,,
+Chad Korach,MEC262,3,2,,,
+Chad Korach,MEC410,3,5,,,
+Chad Korach,MEC200,2,4,,,
+Gregory Hounsell,CME350,3,3,,,
+Gregory Hounsell,CME350,3,3,,,
+Gregory Hounsell,CME312,3,5,,,
+Anthony Leung,EST542,1,3,,Rather not say,mandatory
+Oscar Lopez-Pamies,CEE471,5,1,,B,mandatory
+Oscar Lopez-Pamies,CEE471,4,4,,A-,mandatory
+Oscar Lopez-Pamies,CEE471,4,4,,,
+Oscar Lopez-Pamies,MEC363,5,4,,,
+Oscar Lopez-Pamies,MEC363,5,1,,,
+Oscar Lopez-Pamies,MEC363,5,1,,,
+Oscar Lopez-Pamies,MEC363,5,2,,,
+Oscar Lopez-Pamies,MEC363,5,3,,,
+Oscar Lopez-Pamies,MEC363,4,4,,,
+Oscar Lopez-Pamies,MEC363,5,4,,,
+Oscar Lopez-Pamies,MEC363,5,1,,,
+Oscar Lopez-Pamies,MEC363,5,2,,,
+Oscar Lopez-Pamies,MEC363,5,2,,,
+Oscar Lopez-Pamies,MEC363,5,1,,,
+Oscar Lopez-Pamies,MEC552,5,1,,,
+Oscar Lopez-Pamies,MEC363,4,3,,,
+Oscar Lopez-Pamies,MEC363,4,5,,,
+Chris Weyant,ENGR220,3,4,,,
+Chris Weyant,ESM355,2,4,,,
+Chris Weyant,ESM355,2,5,,,
+Chris Weyant,ESM355,1,5,,,
+Chris Weyant,ESG440,3,5,,,
+Chris Weyant,ESG440,1,5,,,
+Kasia Sawicka,BIOMATERIAL,2,5,,A,
+Kasia Sawicka,BIOMATERIAL,2,5,,A,
+Kasia Sawicka,ESM353,3,4,,A,Y
+Kasia Sawicka,ESN353,3,5,,,
+Kasia Sawicka,BIOMATERIALS,1,5,,A-,N
+Kasia Sawicka,WSE187,4,5,,,
+Kasia Sawicka,WSE187,2,5,,,Y
+Kasia Sawicka,WSE187,4,5,,A,Y
+Kasia Sawicka,WSE187,2,5,,A-,Y
+Kasia Sawicka,ENG101,1,5,,,
+Kasia Sawicka,ENG101,1,5,,,
+Kasia Sawicka,ENGIN150,3,5,,,
+Kasia Sawicka,CLASS,1,5,,,
+Kasia Sawicka,ESG201,1,5,,,
+Stephen Sussman-Fort,ESE224,5,1,,,
+Stephen Sussman-Fort,ESE124,4,2,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,3,2,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,4,3,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,4,2,,,
+Stephen Sussman-Fort,ESE124,4,2,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE314,3,3,,,
+Stephen Sussman-Fort,ESE124,3,3,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Stephen Sussman-Fort,ESE124,5,1,,,
+Tatsiana Mironava,CME323,2,2,,B-,Y
+Frank Szalajda,ESG316,1,5,,A,Y
+Frank Szalajda,ESG217,1,5,,,
+Frank Szalajda,ESG316,1,5,,,
+Frank Szalajda,ESG217,1,5,,,
+Frank Szalajda,ESG217,1,5,,,
+Frank Szalajda,ESG217,1,4,,,
+Gregory Belenky,ESE211,5,1,,,
+Gregory Belenky,ESE211,5,1,,,
+Gregory Belenky,ESE211,5,1,,,
+Gregory Belenky,ESE211,4,1,,,
+Gregory Belenky,ESE211,5,1,,,
+YU Zhou,MEC310,2,2,,,
+Lester Orlick,MEC125,2,5,,,
+Lester Orlick,MEC125,2,4,,,
+Scott Tierno,ESE380,3,5,,,
+Scott Tierno,ESE380,1,5,,,
+Scott Tierno,ESE380,4,5,,,
+Daniel Attinger,MEC502,2,5,,,
+Donald Hodson,MEC203,1,5,,,
+Donald Hodson,MEC203,1,5,,,
+Donald Hodson,MEC202,1,5,,,
+Donald Hodson,MEC203,1,5,,,
+Donald Hodson,MEC203,2,5,,,
+Donald Hodson,MEC202,1,5,,,
+Donald Hodson,MEC203,2,4,,,
+Donald Hodson,MEC203,2,4,,,
+Donald Hodson,MEC202,1,4,,B,Y
+Eihab Jaber,CH370,2,5,,,
+Eihab Jaber,ESG316,3,5,,,
+Eihab Jaber,ESG316,3,5,,,
+Eihab Jaber,ESG316,4,5,,,
+Eihab Jaber,ESG316,2,5,,,
+Eihab Jaber,ESG316,3,5,,,
+Eihab Jaber,ESG201,2,4,,,
+Eihab Jaber,ESG201,3,5,,,
+Albert Tobin,CME304,3,2,,,
+Albert Tobin,ESM511,4,5,,,
+Albert Tobin,CME201,4,2,,,
+Albert Tobin,CME304,4,5,,,
+Sharon Pavulaan,WSE242,2,5,,,
+Sharon Pavulaan,WSE242,2,5,,,
+Sharon Pavulaan,WSE242,3,4,,,
+Sharon Pavulaan,WSE242,3,4,,,
+Sharon Pavulaan,WSE242,3,4,,,
+Vera Gorfinkel,ESE511,1,5,,,
+Sanjay Sampath,ESG450,5,1,,,
+Imin Kao,ITS102,1,5,,,
+Imin Kao,MEC326,2,5,,,
+Imin Kao,MEC532,3,5,,,
+Imin Kao,MEC326,2,5,,,
+Imin Kao,MEC326,4,5,,,
+Imin Kao,ITS102,1,5,,,
+Imin Kao,MEC410,2,5,,,
+Imin Kao,MEC410,3,5,,,
+Imin Kao,410MACHINEDSN,3,5,,,
+Imin Kao,MEC410,3,5,,Fail,Y
+Imin Kao,ITS,3,5,,,
