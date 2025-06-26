@@ -11,8 +11,10 @@ Stony Brook University has many classes of varying difficult in the engineering 
 The mission of this project was to gain some insight on what factors students consider when they grade a class as 'difficult' to better help students who are uncertain about what classes they would enjoy, and to better help professors understand what factors cause students to do poorly.
 
 ## Google Collab Links
-[https://colab.research.google.com/drive/1pMhZbP_V2k7COGfLxRUEfZjKBviP8oxq?authuser=0#scrollTo=0Gkg8D4HHdb3] (Data Analysis Collab)
-[https://colab.research.google.com/drive/1m0FziomUFKMj_hT0vHceA2DGkpMg9L3Y?usp=sharing] (Web Scraping Collab)
+[Data Analysis Collab](https://colab.research.google.com/drive/1pMhZbP_V2k7COGfLxRUEfZjKBviP8oxq?usp=sharing)
+
+
+[Web Scraping Collab](https://colab.research.google.com/drive/1m0FziomUFKMj_hT0vHceA2DGkpMg9L3Y?usp=sharing)
 
 ## Repo overview
 The **AIC Datathon 2025.pdf** is our presentation submission which we presented infront of the Stony Brook University faculty judging the competition. In this presentation we included the visual insights of the project, like correlation matrix and distribution graphs. **rmpScrape.py** is a python file of the same code included in the Web Scraping Collab, and we used this to obtain our own dataset for the competition. **ese_ratemyprof.csv** is a sample of what the output of the webscrape looks like.
